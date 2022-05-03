@@ -4,7 +4,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>My new cool app</title>
+        <title>SEO optimized page through OpenCX</title>
         <meta name="description" content="Meta description content goes here." />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="article" />
